@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on JavaScript/Node.js projects and beginner-friendly open source contributions
 
-📫 How to reach me: LinkedIn www.linkedin.com/in/karthickr83 or karthick.rr.03@gmail.com
+📫 How to reach me: www.linkedin.com/in/karthickr83 or karthick.rr.03@gmail.com
 
 😄 Pronouns: He/Him
 
